@@ -1,0 +1,21 @@
+Usted puede hacer todo lo que desee, pero solo dentro de los limites de su región.<br><br>
+
+<it>Regiones:</it><br>
+El mapa esta dividido para que cada jugador tenga control exclusivo de una sección del mapa, la cantidad de jugadores solo se puede configurar desde el servicio publico.<br><br>
+
+<em>Normas:</em><br>
+- Los Marcadores de texto se pueden usar libremente, sin embargo otros jugadores pueden eliminarlas si están en su región.<br>
+- Solo es posible el uso de herramientas dentro de su región, con algunas excepciones.<br><br>
+
+<it>Compartiendo regiones:</it><br>
+Usando la {wga}, es posible elegir los jugadores que tendrán acceso a su región.<br><br>
+
+<em>Normas:</em><br>
+- Los jugadores pueden seguir usando sus estaciones o vías aun si el jugador ya no comparte region con el.<br><br>
+
+<it>Eliminar estaciones:</it><br>
+Usando la herramienta <em>"eliminar"</em> es posible quitar cualquier estación (incluyendo las del servicio publico).<br><br>
+
+<em>Normas:</em><br>
+- Solo puede eliminar estaciones de otro jugador si está dentro de su región.<br>
+- Usted es capaz de eliminar su propias estaciones, incluso si el jugador ya no comparte la región con usted.

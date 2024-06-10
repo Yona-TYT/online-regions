@@ -1,0 +1,5 @@
+The map is divided into regions for each player.<br><br>
+
+List of regions for each player:<br><br>
+{reg}<br>
+

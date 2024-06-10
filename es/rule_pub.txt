@@ -1,0 +1,12 @@
+<h1>Desde esta ventana se configuran las regiones.</h1><br>
+
+<st>Nota:</st> Solo el servidor puede controlar esto.<br><br>
+
+<it>Seleccione el numero de regiones/jugadores:</it><br><br>
+
+{reg}<br>
+
+<it>Seleccione el tipo de Clima para las fronteras:</it><br><br>
+{clm}<br>
+
+<st>Nota:</st> Se utilizan 2 tipos de clima, uno para crear las divisiones y otro para ocultarlas.

@@ -1,0 +1,12 @@
+<h1>Regions are configured from this window.</h1><br>
+
+<st>Note:</st> Only the server can control this.<br><br>
+
+<it>Select the number of regions/players</it><br><br>
+
+{reg}<br>
+
+<it>Select the type of Climate for borders</it><br><br>
+{clm}<br>
+
+<st>Note:</st> 2 types of <em>climate</em> are used, one to create the divisions and the other to hide them.

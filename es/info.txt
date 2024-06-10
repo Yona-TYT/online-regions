@@ -1,0 +1,6 @@
+El mapa se divide en regiones para cada jugador.<br><br>
+
+Lista de regiones para cada jugador:<br><br>
+
+{reg}<br>
+

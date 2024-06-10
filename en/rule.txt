@@ -1,0 +1,21 @@
+You can do everything you want, but only within the limits of your region.<br><br>
+
+<it>Regions:</it><br>
+The map is divided so that each player has exclusive control of a section of the map, the number of players can only be configured from the public service. <br> <br>
+
+<em>Rules:</em><br>
+- <em>Text Labels</em> can be used freely, however other players can delete them if they are in their region.<br>
+- It is only possible to use tools within your region, with some exceptions.<br><br>
+
+<it>Sharing regions:</it><br>
+Using the {wga}, it is possible to choose the players that will have access to your region.<br><br>
+
+<em>Rules:</em><br>
+- Players can continue using their stations or tracks even if the player no longer shares a region with him.<br><br>
+
+<it>Remove stations:</it><br>
+Using the <em>"delete"</em> tool it is possible to remove any station (including those from the public service).<br><br>
+
+<em>Rules:</em><br>
+- You can only remove stations from another player if you are within your region. <br>
+- You are able to eliminate your own stations, even if the player no longer shares the region with you.
